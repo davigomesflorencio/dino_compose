@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dino Compose</string>
+    <string name="title_activity_presentation._dino">DinoActivity</string>
+    <string name="title_activity_dino">DinoActivity</string>
+</resources>
